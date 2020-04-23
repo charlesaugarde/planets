@@ -5,5 +5,5 @@ yest another line
 
 another line here
 Cold and dry but everything is my favourite colour.
-Change from Stefan, which should create a conflict on GitHub server.
 Another change to confuse GitHub even more.
+This one should create conflict.
