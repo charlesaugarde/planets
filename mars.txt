@@ -1,7 +1,10 @@
+Another conflict number two
+This is another line added in conflict by Charles
 yest another line
 
 
 another line here
 Cold and dry but everything is my favourite colour.
 Another change to confuse GitHub even more.
-This one should create conflict - Stefan's change.
+This one should create Charles line
+And now the conflict is resolved :)
