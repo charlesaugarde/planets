@@ -6,4 +6,4 @@ yest another line
 another line here
 Cold and dry but everything is my favourite colour.
 Another change to confuse GitHub even more.
-This one should create conflict.
+This one should create Charles line
